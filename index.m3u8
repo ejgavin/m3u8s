@@ -1,0 +1,7 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="foodnetwork" tvg-name="Food Network" tvg-logo="https://www.foodnetwork.com/etc/clientlibs/assets/images/food/apple-touch-icon-180x180.png" group-title="Entertainment",Food Network
+https://content-ause1-up-1.uplynk.com/channel/9181e4aeaf864e45aafe0dd2373ee4cd/f.m3u8?pbs=40f2c256347b4ee0b8a569d9f91542a1
+
+#EXTINF:-1 tvg-id="nflredzone" tvg-name="RedZone" tvg-logo="https://images-cdn2.welcomesoftware.com/assets/Redzone.jpg/Zz0xYzc5ZTExYTY2M2ExMWVmOTBjYjNlMGMyZDA1YzQ1ZA==?width=1200" group-title="Sports",RedZone
+https://fl1.moveonjoy.com/NFL_RedZone/index.m3u8
